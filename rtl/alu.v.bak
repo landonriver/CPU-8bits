@@ -1,0 +1,5 @@
+/*算术逻辑单元*/
+module alu(alus,x, bus, dout);
+
+
+endmodule

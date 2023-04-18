@@ -1,0 +1,5 @@
+/*程序计数器，输出当前执行的指令地址
+可仿照ar地址寄存器来写，注意替换控制信号*/
+module pc(din, clk, rst,pcload, pcinc, dout);
+
+endmodule
